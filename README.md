@@ -1,4 +1,4 @@
-## Greetings, 
+ 
 # 👋 I’m Mwananyina Tandeo Bwalya
 
 🎓 Bachelor of Computer Science (Software Engineering) Graduate  
