@@ -1,5 +1,5 @@
  
-# 👋 I’m Mwananyina Tandeo Bwalya
+# Hey👋, I’m Mwananyina Tandeo Bwalya
 
 🎓 Bachelor of Computer Science (Software Engineering) Graduate  
 📍 Lusaka, Zambia  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## A little bit about Me
 
 I am a Software Engineering graduate from the University of Zambia with a strong foundation in software development, networking, Linux systems, and data analytics.  
 
@@ -60,7 +60,7 @@ I enjoy working on web technologies, backend systems, and data-driven applicatio
 
 ---
 
-## 🎯 Current Focus
+## My current Focus 🎯 
 
 - Strengthening backend development skills
 - Building real-world software projects
@@ -69,10 +69,10 @@ I enjoy working on web technologies, backend systems, and data-driven applicatio
 
 ---
 
-## 📫 Connect With Me
+## You can connect with me on 
 
 📧 Email: bmwananyina@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link here)
+🔗 LinkedIn: www.linkedin.com/in/mwananyina-bwalya-067ba0313
 
 ---
 
@@ -82,19 +82,6 @@ I enjoy working on web technologies, backend systems, and data-driven applicatio
 
 ---
 
-> “Consistency and structure build strong systems — in code and in life.”
+> “Consistency and structure build strong systems in code and in life.”
 
-<!--
-**Unclegermande1st/Unclegermande1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
