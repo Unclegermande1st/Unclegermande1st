@@ -9,19 +9,15 @@
 
 ## A little bit about Me
 
-I am a Software Engineering graduate from the University of Zambia with a strong foundation in software development, networking, Linux systems, and data analytics.  
+I recently completed my degree in Software Engineering and I’m currently a graduand waiting to graduate in May. Over the past few years, I’ve had the privilledge to work on notable intresting things from AI agents and backend systems to full-stack web applications. I enjoy building things that actually work not just theorizing them.
 
-My interests lie in building structured, scalable systems and continuously improving my technical and problem-solving skills.  
-
-I enjoy working on web technologies, backend systems, and data-driven applications.
-
+Outside of code,I’m calm and steady in how I approach things, whether it’s solving a technical problem or handling pressure. But once I’m comfortable around people, I’m actually quite talkative and enjoy good conversations. I value growth, clarity and above everthing else PEACE.
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Development
 - Python
-- R Programming
 - JavaScript
 - HTML5 & CSS3
 - SQL
