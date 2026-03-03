@@ -10,8 +10,9 @@
 ## A little bit about Me
 
 I recently completed my degree in Software Engineering and I’m currently a graduand waiting to graduate in May. Over the past few years, I’ve had the privilledge to work on notable intresting things from AI agents and backend systems to full-stack web applications. I enjoy building things that actually work not just theorizing them.
-
 Outside of code,I’m calm and steady in how I approach things, whether it’s solving a technical problem or handling pressure. But once I’m comfortable around people, I’m actually quite talkative and enjoy good conversations. I value growth, clarity and above everthing else PEACE.
+
+
 ---
 
 ## 🛠️ Technical Skills
