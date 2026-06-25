@@ -1,7 +1,7 @@
  
 # Hey👋, I’m Mwananyina Tandeo Bwalya
 
-🎓 Bachelor of Computer Science (Software Engineering) Graduate  
+🎓 Bachelor of Computer Science (Software Engineering)  
 📍 Lusaka, Zambia  
 💡 Passionate about Software Engineering, Data Science, AI and System Design  
 
